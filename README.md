@@ -174,7 +174,7 @@ cv2.destroyAllWindows()
 
 Here's what the output looks like (example image):
 
-<img width="803" height="637" alt="Yolo detection" src="https://github.com/user-attachments/assets/d22f9d7f-db33-4169-b6af-3b72958318e0" />
+![WhatsApp Image 2025-09-25 at 11 40 51_26ba9cdf](https://github.com/user-attachments/assets/7f69934c-51e7-4dbd-8a6c-10bfeddb5c5c)
 
 
 🧾 Sample requirements.txt
